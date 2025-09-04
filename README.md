@@ -3,6 +3,7 @@ help me to generate the icon with colorful for my app called "Gooder", and gener
 
 
 
+
 by tomato:
 - Use article
 - highlight the vocab you want
@@ -21,6 +22,11 @@ Idea:
 - 可以 join discussion forums
 - 下載 articles 離線閱讀，適合 commuters。
 - use AI agent for asking and explain the essay
+- mouse highlight each words and it will translate the word
+  a. can give more example with using this word
+  b. can add to vocab book
+- use ai agent to explain one of paragraph idea: can choose chinese or english
+
 
 然後由 AI 生成大量 news articles，讓使用者透過閱讀來學習 english。features 包括：
 a. 文章顯示像 Instagram feed，例如每篇有 picture，並由 AI 提供 summarize。
